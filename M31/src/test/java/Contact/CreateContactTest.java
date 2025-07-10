@@ -33,7 +33,7 @@ public class CreateContactTest extends BaseClass {
 	
 	@Test(groups="regressionTest")
 	public void createContactTest() throws Throwable {
-
+                  //Pull1
 			//Click on Contact
 			HomePage home= new HomePage(driver);
 			home.clickContactLink();
