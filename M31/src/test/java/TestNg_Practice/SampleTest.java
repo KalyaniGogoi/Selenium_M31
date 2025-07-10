@@ -12,7 +12,7 @@ public class SampleTest {
 	@Test(invocationCount = 0)// it will not get executed
 	@Test(invocationCount = 0) //error
 	*/
-	@Test(invocationCount = 3)
+	@Test(invocationCount = 1)
 	public void createProduct()
 	{
 		System.out.println("Product is created");
