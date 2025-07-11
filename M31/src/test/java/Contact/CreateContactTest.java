@@ -35,7 +35,7 @@ public class CreateContactTest extends BaseClass {
 	public void createContactTest() throws Throwable {
             //Pull1
 		    //pushback
-		//Pull2
+		    //Pull2
 			//Click on Contact
 			HomePage home= new HomePage(driver);
 			home.clickContactLink();
